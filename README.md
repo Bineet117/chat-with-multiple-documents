@@ -52,4 +52,3 @@
 ✅ **Optimized Response Quality:** "Through iterative improvements, I fine-tuned chunking, similarity search, and response validation to improve accuracy."  
 ✅ **User-Friendly Design:** "The chatbot is designed with a clean UI and multiple response modes for flexibility."  
 
-Would you like a more technical breakdown for any specific part? 🚀
